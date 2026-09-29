@@ -1,0 +1,10 @@
+# IDE and local editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs and OS files
+*.log
+Thumbs.db
+.DS_Store
